@@ -1,0 +1,19 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    background-color: #999;
+    position: relative;
+}
+
+.card-content {
+    color: #333;
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 4px;
+}
